@@ -1,0 +1,6 @@
+git+https://github.com/nhorvath/Pyrebase4.git
+streamlit
+streamlit-autorefresh
+pandas
+plotly
+datetime
