@@ -3,4 +3,6 @@ streamlit
 streamlit-autorefresh
 pandas
 plotly
-datetime
+setuptools
+google-cloud-storage
+requests-toolbelt
