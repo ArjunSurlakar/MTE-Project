@@ -1,8 +1,9 @@
-git+https://github.com/nhorvath/Pyrebase4.git
 streamlit
-streamlit-autorefresh
+pyrebase4
 pandas
 plotly
-setuptools
-google-cloud-storage
-requests-toolbelt
+numpy
+streamlit-autorefresh
+requests_toolbelt
+
+
