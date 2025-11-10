@@ -267,3 +267,4 @@ else:
     auth_choice=st.selectbox("Select Action", ["Login","Sign Up"])
     if auth_choice=="Sign Up": signup()
     else: login()
+
