@@ -1,7 +1,7 @@
 git+https://github.com/nhorvath/Pyrebase4.git
-streamlit
-streamlit-autorefresh
-pandas
-plotly
-datetime
-pyrebase
+streamlit==1.28.0
+streamlit-autorefresh==0.1.9
+pandas==2.1.1
+numpy==1.26.2
+plotly==5.19.0
+requests==2.31.0
