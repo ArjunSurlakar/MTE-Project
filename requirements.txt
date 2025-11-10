@@ -1,9 +1,7 @@
+git+https://github.com/nhorvath/Pyrebase4.git
 streamlit
-pyrebase4
+streamlit-autorefresh
 pandas
 plotly
-numpy
-streamlit-autorefresh
-requests_toolbelt
-
-
+datetime
+pyrebase
